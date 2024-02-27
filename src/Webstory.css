@@ -1,0 +1,95 @@
+.carousel-container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .slick-prev,
+  .slick-next {
+    font-size: 24px;
+  }
+  
+  .carousel-image {
+    width: 240px;
+    height: 420px;
+    object-fit: cover;
+    border-radius: 32px;
+  }
+  
+  .custom-prev-arrow,
+  .custom-next-arrow {
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    opacity: 0.7;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #c41f1f;
+  
+  }
+  
+  .custom-prev-arrow {
+    left: -55px;
+  }
+  
+  .custom-next-arrow {
+    right: -7px;
+  }
+  
+  .carousel-item {
+    position: relative;
+    overflow: hidden;
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .image-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 10px;
+    /* background-color: rgba(255, 255, 255, 0.7); */
+    /* padding-left: -19px; */
+    /* padding-right: 20px; */
+    border-radius: 5px;
+    overflow: hidden;
+    white-space: nowrap;
+    /* max-width: 80%; */
+    /* text-overflow: ; */
+    color: white;
+    font-size: 19px;
+    text-align: left;
+  }
+  
+  .read-more {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #007bff;
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+.heading-name{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 65px;
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Merriweather:ital,wght@1,300&display=swap');
+.subheading-name{
+font-size:40px ;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+
+  .raw-line{
+  color: gray;
+  width: 1140px;
+  size: 10;     
+  }
+ 
