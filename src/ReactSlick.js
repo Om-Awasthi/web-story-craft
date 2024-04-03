@@ -5,7 +5,7 @@ function WebStories() {
     {
       "id": 1,
       "title": "10 benefits of drinking tea",
-      "content": "DTDL News Forum",
+      "content": "News Forum",
       "src": "https://images.news18.com/webstories/2023/11/egor-lyfar-jHMJrp33sUg-unsplash-1-scaled.jpg",
       
   },
